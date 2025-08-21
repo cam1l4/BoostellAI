@@ -1,0 +1,60 @@
+{
+  "nav_services": "Szolgáltatások",
+  "nav_transformation": "Átalakítás",
+  "nav_testimonials": "Ajánlások",
+  "nav_about_us": "Rólunk",
+  "nav_contact": "Kapcsolat",
+  "service1_title_short": "Landing & Tölcsér",
+
+  "hero_headline_part1": "Növeld vállalkozásod",
+  "hero_headline_part2": "Mesterséges Intelligenciával",
+  "hero_description": "Automatizáld a tartalomkészítést, és növeld márkád jelenlétét a közösségi médiában innovatív megoldásainkkal.",
+  "hero_cta": "Kezdjük el",
+
+  "problem_solution_heading": "A probléma és a megoldásunk",
+  "problem_title": "A probléma",
+  "problem_list": [
+    "Kreativitás hiánya a közösségi médiában",
+    "Időpazarlás tartalomkészítésre",
+    "Nehézség a közönséggel való kapcsolatteremtésben",
+    "Nem hatékony digitális stratégiák"
+  ],
+  "solution_title": "A megoldásunk",
+  "solution_list": [
+    "MI-alapú személyre szabott tartalom",
+    "Automatizált bejegyzés közzététel",
+    "Intelligens stratégiák az üzletedhez igazítva",
+    "Időmegtakarítás és nagyobb elérés"
+  ],
+
+  "transformation_heading": "Az átalakulás, amit elvárhat",
+  "transformation_description": "Nem csak szolgáltatásokat kínálunk, hanem valódi átalakulást biztosítunk vállalkozása számára.",
+  "benefit1_title": "Megnövelt ROI",
+  "benefit1_description": "Maximalizálja a nyereségét és csökkentse a szerzési költségeket.",
+  "benefit2_title": "Működési hatékonyság",
+  "benefit2_description": "Automatizálja a feladatokat és szabadítson fel időt a növekedésre.",
+  "benefit3_title": "Minősített ügyfelek",
+  "benefit3_description": "Vonzó üzenetekkel érje el az ideális közönséget, amelyek konvertálnak.",
+  "benefit4_title": "Folyamatos innováció",
+  "benefit4_description": "Maradjon az élen a legújabb eszközökkel és stratégiákkal.",
+  "benefit5_title": "Adatvezérelt döntések",
+  "benefit5_description": "Használjon prediktív elemzéseket a tájékozott döntésekhez.",
+  "benefit6_title": "Fenntartható növekedés",
+  "benefit6_description": "Építsen szilárd alapot a hosszú távú növekedéshez.",
+
+  "testimonials_title": "Ügyfeleink véleménye",
+  "testimonial_1": "Ennek az eszköznek köszönhetően mostantól minden nap minőségi tartalmat teszünk közzé erőfeszítés nélkül.",
+  "testimonial_2": "A közösségi média automatizálása lehetővé tette, hogy az üzlet növekedésére összpontosítsunk.",
+  "testimonial_3": "Néhány héten belül nőtt az elérésünk és az ügyfelekkel való interakció.",
+
+  "cta_heading": "Készen áll az üzlete átalakítására?",
+  "cta_description": "Ne hagyja, hogy a versenytársak megelőzzék. Itt az ideje a legmodernebb stratégiák bevezetésének.",
+  "contact_title": "Lépjen kapcsolatba velünk még ma",
+  "contact_text": "Kérjen ingyenes konzultációt, és fedezze fel, hogyan tudjuk fellendíteni vállalkozását.",
+  "contact_button": "E-mail küldése",
+  "contact_social": "Kövessen minket a közösségi médiában további tippekért.",
+
+  "footer_copyright": "2025 BoostellAI. Minden jog fenntartva.",
+  "footer_tagline": "KKV-k támogatása mesterséges intelligenciával."
+}
+

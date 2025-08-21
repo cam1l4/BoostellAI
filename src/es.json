@@ -1,0 +1,63 @@
+{
+  "nav_services": "Servicios",
+  "nav_transformation": "Transformación",
+  "nav_testimonials": "Testimonios",
+  "nav_about_us": "Nosotros",
+  "nav_contact": "Contacto",
+  "service1_title_short": "Landing & Embudo",
+
+  "hero_headline_part1": "Impulsa tu negocio con",
+  "hero_headline_part2": "Inteligencia Artificial",
+  "hero_description": "Automatiza tu contenido y haz crecer tu marca en redes sociales con nuestras soluciones innovadoras.",
+  "hero_cta": "Empezar ahora",
+
+  "problem_solution_heading": "El Problema y Nuestra Solución",
+  "problem_title": "El Problema",
+  "problem_list": [
+    "Falta de creatividad en redes sociales",
+    "Pérdida de tiempo creando contenido",
+    "Dificultad para conectar con la audiencia",
+    "Estrategias digitales poco efectivas"
+  ],
+  "solution_title": "Nuestra Solución",
+  "solution_list": [
+    "Contenido personalizado con IA",
+    "Automatización de publicaciones",
+    "Estrategias inteligentes adaptadas a tu negocio",
+    "Ahorro de tiempo y mayor alcance"
+  ],
+  
+  "transformation_heading": "La Transformación que Esperas",
+  "transformation_description": "No solo te ofrecemos servicios, te brindamos una transformación real para tu negocio.",
+  "benefit1_title": "ROI Aumentado",
+  "benefit1_description": "Maximiza tus ganancias y reduce costos de adquisición.",
+  "benefit2_title": "Eficiencia Operativa",
+  "benefit2_description": "Automatiza tareas y libera tiempo para el crecimiento.",
+  "benefit3_title": "Clientes Calificados",
+  "benefit3_description": "Atrae a tu audiencia ideal con mensajes que convierten.",
+  "benefit4_title": "Innovación Constante",
+  "benefit4_description": "Mantente a la vanguardia con las últimas herramientas.",
+  "benefit5_title": "Decisiones Basadas en Datos",
+  "benefit5_description": "Accede a análisis predictivos para decisiones informadas.",
+  "benefit6_title": "Crecimiento Sostenible",
+  "benefit6_description": "Construye una base sólida para el crecimiento a largo plazo.",
+
+  "testimonials_title": "Lo que dicen nuestros clientes",
+  "testimonial_1": "Gracias a esta herramienta, ahora publicamos contenido de calidad todos los días sin esfuerzo.",
+  "testimonial_2": "La automatización de redes sociales nos permitió enfocarnos en hacer crecer el negocio.",
+  "testimonial_3": "El alcance y la interacción con nuestros clientes aumentó en pocas semanas.",
+
+  "cta_heading": "¿Listo para Transformar tu Negocio?",
+  "cta_description": "No dejes que tu competencia te supere. Es hora de implementar estrategias de vanguardia.",
+  "contact_title": "Contáctanos Hoy Mismo",
+  "contact_text": "Agenda una consulta gratuita y descubre cómo podemos impulsar tu negocio.",
+  "contact_button": "Enviar un Correo",
+  "contact_social": "Síguenos en redes sociales para más consejos.",
+
+  "footer_copyright": "2025 BoostellAI. Todos los derechos reservados.",
+  "footer_tagline": "Impulsando PyMEs con Inteligencia Artificial.",
+  "services_heading": "Como ayudamos a tu negocio"
+
+
+}
+
