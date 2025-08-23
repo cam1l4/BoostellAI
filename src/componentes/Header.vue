@@ -26,8 +26,6 @@
       <a href="#testimonios">{{ translations.nav_testimonials }}</a>
       <a href="#nosotros">{{ translations.nav_about_us }}</a>
       <a href="#contacto">{{ translations.nav_contact }}</a>
-      <a href="#servicios-overview">{{ translations.nav_services }}</a>
-
     </nav>
     <div class="language-switcher">
       <select v-model="currentLanguage">
