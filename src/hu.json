@@ -12,19 +12,21 @@
   "hero_cta": "Kezdjük el",
 
   "problem_solution_heading": "A probléma és a megoldásunk",
-  "problem_title": "A probléma",
+  "problem_title": "A probléma: Nem hatékony hagyományos marketing",
   "problem_list": [
-    "Kreativitás hiánya a közösségi médiában",
-    "Időpazarlás tartalomkészítésre",
-    "Nehézség a közönséggel való kapcsolatteremtésben",
-    "Nem hatékony digitális stratégiák"
+    "Időhiány a közösségi média és a kampányok kezelésére",
+    "Nehézségek a potenciális ügyfelek vásárlókká konvertálásában",
+    "Magas költségek és alacsony megtérülés a hirdetésekben",
+    "Általános stratégiák, amelyek nem rezonálnak a közönséggel",
+    "A digitális marketing legújabb trendjeinek ismerete hiánya"
   ],
-  "solution_title": "A megoldásunk",
+  "solution_title": "A megoldás: BoostellAI és MI",
   "solution_list": [
-    "MI-alapú személyre szabott tartalom",
-    "Automatizált bejegyzés közzététel",
-    "Intelligens stratégiák az üzletedhez igazítva",
-    "Időmegtakarítás és nagyobb elérés"
+    "A BoostellAI-nál megértjük az Ön kihívásait. Ezért fejlesztettünk ki digitális marketing megoldásokat, amelyek lehetővé teszik a következőket:",
+    "Automatizálja a közösségi média és a kampánykezelést fejlett eszközökkel.",
+    "Optimalizálja az értékesítési csatornákat a konverziók maximalizálása érdekében.",
+    "Maradjon lépéselőnyben innovatív stratégiákkal.",
+    "MI-alapú szolgáltatásaink"
   ],
 
   "transformation_heading": "Az átalakulás, amit elvárhat",

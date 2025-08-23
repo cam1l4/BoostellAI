@@ -12,19 +12,21 @@
   "hero_cta": "Empezar ahora",
 
   "problem_solution_heading": "El Problema y Nuestra Solución",
-  "problem_title": "El Problema",
+  "problem_title": "El Problema: Marketing Tradicional Ineficiente",
   "problem_list": [
-    "Falta de creatividad en redes sociales",
-    "Pérdida de tiempo creando contenido",
-    "Dificultad para conectar con la audiencia",
-    "Estrategias digitales poco efectivas"
+    "Falta de tiempo para gestionar redes sociales y campañas.",
+    "Dificultad para convertir leads en clientes.",
+    "Altos costos y bajo retorno de inversión en publicidad.",
+    "Estrategias genéricas que no resuenan con tu audiencia.",
+    "Desconocimiento de las últimas tendencias en marketing digital."
   ],
-  "solution_title": "Nuestra Solución",
+  "solution_title": "La Solución: BoostellAI y la IA",
   "solution_list": [
-    "Contenido personalizado con IA",
-    "Automatización de publicaciones",
-    "Estrategias inteligentes adaptadas a tu negocio",
-    "Ahorro de tiempo y mayor alcance"
+    "En BoostellAI, entendemos tus desafíos. Por eso, hemos desarrollado soluciones de marketing digital que te permiten:",
+    "Automatizar la gestión de redes sociales y campañas con herramientas avanzadas.",
+    "Optimizar embudos de venta para maximizar conversiones.",
+    "Mantenerte a la vanguardia con estrategias innovadoras.",
+    "Nuestros Servicios Impulsados por IA"
   ],
   
   "transformation_heading": "La Transformación que Esperas",
