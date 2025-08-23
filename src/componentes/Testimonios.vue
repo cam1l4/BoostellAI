@@ -5,7 +5,7 @@
       <div class="testimonials-carousel-container mt-12">
         <div class="testimonials-carousel">
           <div v-for="testimonial in testimonials" :key="testimonial" class="testimonial-card">
-            <p class="text-gray-600 italic">"{{ testimonial }}"</p>
+            <p class="text-gray-700 italic text-base leading-relaxed">"{{ testimonial }}"</p>
           </div>
           <div v-for="testimonial in testimonials" :key="testimonial + '-clone'" class="testimonial-card" aria-hidden="true">
             <p class="text-gray-600 italic">"{{ testimonial }}"</p>

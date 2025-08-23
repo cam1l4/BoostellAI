@@ -265,51 +265,34 @@
   overflow: hidden;
   width: 100%;
   position: relative;
-  padding-bottom: 2rem;
 }
 
 .testimonials-carousel {
   display: flex;
-  white-space: nowrap;
-  animation: scrollTestimonials 60s linear infinite;
-}
-
-.testimonials-carousel:hover {
-  animation-play-state: paused;
+  gap: 1.5rem; /* espacio entre tarjetas */
+  animation: scroll 40s linear infinite; /* velocidad (más alto = más lento) */
 }
 
 .testimonial-card {
-  /* --- AÑADIMOS FLEXBOX PARA CENTRAR --- */
-  display: flex;
-  flex-direction: column;
-  justify-content: center; /* Centra verticalmente */
-  align-items: center;     /* Centra horizontalmente */
-
-  /* --- AÑADIMOS UNA ALTURA MÍNIMA --- */
-  min-height: 250px; /* Puedes ajustar este valor a tu gusto (e.g., 200px, 300px) */
-
-  /* El resto de estilos se mantienen como estaban */
-  flex-shrink: 0;
-  width: calc(100% - 2rem); 
-  margin: 0 1rem;
-  background-color: var(--color-container-bg);
+  background: #fff;
   border-radius: 12px;
-  padding: 2rem;
-  box-shadow: 0 4px 12px var(--color-container-shadow);
-  transition: transform 0.3s ease;
-  white-space: normal;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;              /* espacio interno */
+  margin: 0 0.75rem;            /* espacio entre tarjetas */
+  max-width: 320px;             /* limita el ancho */
+  min-height: 200px;            /* altura mínima */
+  display: flex;
+  align-items: center;          /* centra verticalmente el texto */
+  justify-content: center;      /* centra horizontalmente */
+  text-align: center;           /* centra el texto */
+  flex-shrink: 0;               /* evita que se encoja en carrusel */
 }
 
-.testimonial-card:hover {
-  transform: translateY(-8px);
-}
-@media (min-width: 768px) {
-  .testimonial-card {
-    width: calc(50% - 2rem);
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
   }
-}
-
-@keyframes scrollTestimonials {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+  100% {
+    transform: translateX(-50%);
+  }
 }
