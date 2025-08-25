@@ -11,6 +11,7 @@
         </div>
         <div class="container-box w-full lg:w-2/5">
           <h3 class="text-2xl font-bold mb-4 text-gray-800">{{ translations.solution_title }}</h3>
+          <p class="max-w-3xl mx-auto mt-4">{{ translations.solution_description }}</p>
           <ul class="text-left list-disc list-inside space-y-3 text-gray-600">
             <li v-for="(item, index) in translations.solution_list" :key="index">{{ item }}</li>
           </ul>
