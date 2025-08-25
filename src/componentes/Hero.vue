@@ -1,3 +1,4 @@
+<!-- src/componentes/Hero.vue -->
 <template>
   <section 
     id="top" 
@@ -12,18 +13,14 @@
     <!-- Contenido -->
     <div class="relative z-10 max-w-4xl px-6">
       <h1 class="text-4xl md:text-6xl font-extrabold leading-tight mb-6 drop-shadow-lg">
-        Haz crecer tu marca con 
-        <span class="bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500 bg-clip-text text-transparent">
-          BoostellAI
-        </span>
-        y el poder de la 
+        {{ translations.hero_headline_part1 }}
         <span class="bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent">
-          Inteligencia Artificial
+          {{ translations.hero_headline_part2 }}
         </span>
       </h1>
       
       <p class="text-lg md:text-xl mb-10 text-gray-200 drop-shadow-md">
-        Automatiza tu contenido, conecta con tu audiencia y multiplica tus resultados en redes sociales gracias a nuestras soluciones de IA diseñadas para tu negocio.
+        {{ translations.hero_description }}
       </p>
 
       <a 
@@ -32,12 +29,11 @@
                bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500 shadow-lg hover:scale-105 
                transform transition duration-300 ease-in-out"
       >
-        Impulsa tu negocio con BoostellAI
+        {{ translations.hero_cta }}
       </a>
     </div>
   </section>
 </template>
-
 
 <script setup>
 import { inject } from 'vue';

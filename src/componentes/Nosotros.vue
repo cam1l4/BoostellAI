@@ -2,7 +2,7 @@
   <section id="nosotros" class="py-20 bg-gray-50">
     <!-- 👇 Igualamos a la sección transformación -->
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <h2 class="text-center text-3xl md:text-4xl font-extrabold mb-12 text-gradient">
+      <h2 class="section-heading text-gradient leading-normal">
         {{ translations.problem_solution_heading }}
       </h2>
 

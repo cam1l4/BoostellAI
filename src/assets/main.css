@@ -62,7 +62,7 @@
   }
 
   .section-heading {
-    @apply text-4xl md:text-5xl font-extrabold text-center mb-10;
+  @apply text-4xl md:text-5xl font-extrabold text-center mb-10 leading-snug;
   }
 
   .feature-icon {
