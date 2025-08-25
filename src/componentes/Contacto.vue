@@ -14,11 +14,13 @@
         <p class="mb-6">{{ translations.contact_text }}</p>
         
         <!-- Nota: He corregido un pequeño error tipográfico en 'target="_blank"' -->
-        <a href="mailto:boostellAI@outlook.com" target="_blank" class="btn-primary">
-          {{ translations.contact_button }}
+        <a 
+          href="https://wa.me/TUNUMERODETELEFONO?text=Hola%2C%20me%20gustaría%20agendar%20una%20consulta%20gratuita." 
+          target="_blank"
+          class="btn-primary"
+        >
+         <p class="mt-6 text-sm text-gray-500">{{ translations.contact_social }}</p>
         </a>
-        
-        <p class="mt-6 text-sm text-gray-500">{{ translations.contact_social }}</p>
       </div>
     </div>
   </section>

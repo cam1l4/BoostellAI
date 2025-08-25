@@ -1,8 +1,6 @@
 <!-- src/componentes/Hero.vue -->
 <template>
-  <section 
-    id="top" 
-    class="hero-section relative flex flex-col justify-center items-center text-center text-white min-h-screen overflow-hidden"
+  <section id="top" class="hero-section relative flex flex-col justify-center items-center text-center text-white min-h-screen overflow-hidden"
   >
     <!-- Video de fondo con overlay -->
     <video autoplay muted loop playsinline class="hero-video absolute inset-0 w-full h-full object-cover">
@@ -24,11 +22,10 @@
       </p>
 
       <a 
-        href="#contacto" 
-        class="inline-block px-8 py-4 rounded-full text-lg font-semibold text-white 
-               bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500 shadow-lg hover:scale-105 
-               transform transition duration-300 ease-in-out"
-      >
+      href="https://wa.me/+36305936472?text=Hola%2C%20estoy%20interesado%20en%20sus%20servicios%20de%20IA."
+      target="_blank" 
+      class="btn-primary"
+    >
         {{ translations.hero_cta }}
       </a>
     </div>

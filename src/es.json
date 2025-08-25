@@ -11,13 +11,6 @@
   "hero_description": "Automatiza tu contenido, conecta con tu audiencia y multiplica tus resultados en redes sociales gracias a nuestras soluciones de IA diseñadas para tu negocio.",
   "hero_cta": "Empieza a impulsar tu negocio ahora",
 
-  "service1_title": "Convierte visitantes en clientes con un embudo digital inteligente",
-  "service1_description": "Diseñamos páginas de aterrizaje optimizadas con IA y embudos simples que guían a tus clientes desde el primer clic hasta la compra.",
-  "service1_point1": "Landing Page profesional optimizada para captar leads o vender.",
-  "service1_point2": "Embudo sencillo: página principal + página de gracias + emails básicos.",
-  "service1_point3": "Copywriting con IA diseñado para persuadir y conectar.",
-  "service1_point4": "Integración rápida con WhatsApp, email o CRM.",
-  
   "problem_solution_heading": "El Problema y Nuestra Solución",
   "problem_title": "El Problema: Marketing Tradicional Ineficiente",
   "problem_list": [
@@ -27,7 +20,6 @@
     "Estrategias genéricas que no resuenan con tu audiencia.",
     "Desconocimiento de las últimas tendencias en marketing digital."
   ],
-  
   "solution_title": "La Solución: BoostellAI y la IA",
   "solution_description": "En BoostellAI, entendemos tus desafíos. Por eso, hemos desarrollado soluciones de marketing digital que te permiten:",
   "solution_list": [
