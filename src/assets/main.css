@@ -288,25 +288,24 @@
 }
 
 .testimonial-card {
-  /* --- AÑADIMOS FLEXBOX PARA CENTRAR --- */
   display: flex;
-  flex-direction: column;
-  justify-content: center; /* Centra verticalmente */
-  align-items: center;     /* Centra horizontalmente */
-
-  /* --- AÑADIMOS UNA ALTURA MÍNIMA --- */
-  min-height: 250px; /* Puedes ajustar este valor a tu gusto (e.g., 200px, 300px) */
-
-  /* El resto de estilos se mantienen como estaban */
+  flex-direction: column; /* Apila los elementos verticalmente */
+  text-align: center;
+  
+  /* --- MODIFICACIÓN: Se elimina la altura fija --- */
+  /* min-height: 250px; <-- ELIMINADO */
+  
+  /* El resto de estilos se mantienen */
   flex-shrink: 0;
-  width: calc(100% - 2rem); 
-  margin: 0 1rem;
-  background-color: var(--color-container-bg);
-  border-radius: 12px;
-  padding: 2rem;
-  box-shadow: 0 4px 12px var(--color-container-shadow);
-  transition: transform 0.3s ease;
+  margin: 0 0.75rem;
   white-space: normal;
+  background-color: white;
+  border-radius: 12px;
+  padding: 2.5rem 1.5rem; /* Aumentamos el padding vertical un poco */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  
+  width: 85%; /* Ancho para móvil */
 }
 
 .testimonial-card:hover {
@@ -314,11 +313,27 @@
 }
 @media (min-width: 768px) {
   .testimonial-card {
-    width: calc(50% - 2rem);
+    width: calc(50% - 1.5rem);
   }
 }
 
 @keyframes scrollTestimonials {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
+}
+/* --- ANCHO PARA ESCRITORIOS --- */
+/* En pantallas grandes (1024px+), se muestran 3 tarjetas más angostas */
+@media (min-width: 1024px) {
+  .testimonial-card {
+    width: calc(33.333% - 1.5rem);
+  }
+}
+section[id] {
+  /* Esta propiedad le dice al navegador que deje un espacio de 6rem (96px) 
+     por encima del ancla al hacer scroll.
+     ¡Ajusta este valor para que coincida con la altura exacta de tu header! */
+  scroll-margin-top: 6rem;
+}
+:target {
+  scroll-margin-top: 6rem;
 }

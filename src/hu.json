@@ -11,6 +11,13 @@
   "hero_description": "Automatizáld tartalmaidat, lépj kapcsolatba közönségeddel és növeld közösségi média eredményeidet vállalkozásodra tervezett mesterséges intelligencia megoldásainkkal.",
   "hero_cta": "Kezdje el vállalkozása fellendítését most",
 
+  "service1_title": "Alakítsa át a látogatókat ügyfelekké egy intelligens digitális tölcsérrel",
+  "service1_description": "MI-vel optimalizált landing oldalakat és egyszerű tölcséreket tervezünk, amelyek az első kattintástól a vásárlásig vezetik az ügyfeleit.",
+  "service1_point1": "Professzionális landing oldal, leadek gyűjtésére vagy eladásra optimalizálva.",
+  "service1_point2": "Egyszerű tölcsér: főoldal + köszönőoldal + alap e-mailek.",
+  "service1_point3": "MI-alapú szövegírás a meggyőzésre és a kapcsolatteremtésre.",
+  "service1_point4": "Gyors integráció WhatsApp-pal, e-maillel vagy CRM-mel.",
+  
   "problem_solution_heading": "A probléma és a megoldásunk",
   "problem_title": "A probléma: Nem hatékony hagyományos marketing",
   "problem_list": [
@@ -46,9 +53,22 @@
   "benefit6_description": "Építsen szilárd alapot a hosszú távú növekedéshez.",
 
   "testimonials_title": "Ügyfeleink véleménye",
-  "testimonial_1": "Ennek az eszköznek köszönhetően mostantól minden nap minőségi tartalmat teszünk közzé erőfeszítés nélkül.",
-  "testimonial_2": "A közösségi média automatizálása lehetővé tette, hogy az üzlet növekedésére összpontosítsunk.",
-  "testimonial_3": "Néhány héten belül nőtt az elérésünk és az ügyfelekkel való interakció.",
+  "testimonial1_text": "A BoostellAI forradalmasította a közösségi média kezelésünket. Két hónap alatt 30%-os növekedést tapasztaltunk az elköteleződésben. Hihetetlen!",
+  "testimonial1_name": "Ana G.",
+  "testimonial1_position": "Online butik tulajdonosa",
+  "testimonial1_company": "Moda Elegante S.A.",
+  "testimonial2_text": "A BoostellAI értékesítési tölcséreinek köszönhetően a konverzióink az egekbe szöktek. A befektetés az első héten megtérült.",
+  "testimonial2_name": "Carlos M.",
+  "testimonial2_position": "Technológiai startup menedzser",
+  "testimonial2_company": "Tech Solutions Ltda.",
+  "testimonial3_text": "A BoostellAI kampány-személyre szabása kivételes. Ügyfeleink valóban kapcsolódnak a márkánkhoz.",
+  "testimonial3_name": "Laura P.",
+  "testimonial3_position": "Marketing igazgató",
+  "testimonial3_company": "Innovación Digital S.L.",
+  "testimonial4_text": "Lenyűgöző működési hatékonyságot értünk el. A BoostellAI lehetővé tette számunkra, hogy a stratégiai növekedésre fókuszáljunk.",
+  "testimonial4_name": "Javier R.",
+  "testimonial4_position": "Szolgáltató cég vezérigazgatója",
+  "testimonial4_company": "Servicios Pro S.A.S.",
 
   "cta_heading": "Készen áll az üzlete átalakítására?",
   "cta_description": "Ne hagyja, hogy a versenytársak megelőzzék. Itt az ideje a legmodernebb stratégiák bevezetésének.",
@@ -58,6 +78,16 @@
   "contact_social": "Kövessen minket a közösségi médiában további tippekért.",
 
   "footer_copyright": "2025 BoostellAI. Minden jog fenntartva.",
-  "footer_tagline": "KKV-k támogatása mesterséges intelligenciával."
+  "footer_tagline": "KKV-k támogatása mesterséges intelligenciával.",
+  "services_heading": "Hogyan segítjük vállalkozását",
+
+  "feature1_title": "Professzionális Landing Oldal",
+  "feature1_desc": "Vonzó és meggyőző dizájnnal optimalizálva a magas minőségű leadek gyűjtésére vagy a közvetlen értékesítésre.",
+  "feature2_title": "Egyszerű Értékesítési Tölcsér",
+  "feature2_desc": "Világos szerkezet: főoldal, köszönőoldal és egy alap e-mail sorozat a potenciális ügyfelek ápolására.",
+  "feature3_title": "MI-alapú Szövegírás",
+  "feature3_desc": "Mesterséges intelligencia által tervezett szövegek, amelyek meggyőznek, érzelmileg kapcsolódnak és cselekvésre ösztönzik a felhasználót.",
+  "feature4_title": "Gyors Integráció",
+  "feature4_desc": "Zökkenőmentesen összekötjük új tölcsérét meglévő eszközeivel, mint a WhatsApp, e-mail vagy a CRM rendszere."
 }
 

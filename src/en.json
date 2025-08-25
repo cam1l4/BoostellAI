@@ -11,6 +11,13 @@
   "hero_description": "Automate your content, connect with your audience, and boost your social media results with our AI solutions designed for your business.",
   "hero_cta": "Start boosting your business now",
 
+  "service1_title": "Turn visitors into customers with a smart digital funnel",
+  "service1_description": "We design AI-optimized landing pages and simple funnels that guide your customers from the first click to the purchase.",
+  "service1_point1": "Professional landing page optimized to capture leads or sell.",
+  "service1_point2": "Simple funnel: main page + thank you page + basic emails.",
+  "service1_point3": "AI-powered copywriting designed to persuade and connect.",
+  "service1_point4": "Quick integration with WhatsApp, email, or CRM.",
+
   "problem_solution_heading": "The Problem & Our Solution",
   "problem_title": "The Problem: Inefficient Traditional Marketing",
   "problem_list": [
@@ -44,10 +51,26 @@
   "benefit6_title": "Sustainable Growth",
   "benefit6_description": "Build a solid foundation for long-term growth.",
 
-  "testimonials_title": "What our clients say",
-  "testimonial_1": "Thanks to this tool, we now publish quality content every day effortlessly.",
-  "testimonial_2": "Social media automation allowed us to focus on growing the business.",
-  "testimonial_3": "Our reach and engagement increased in just a few weeks.",
+  "testimonials_title": "What our customers say",
+  "testimonial1_text": "BoostellAI has revolutionized the way we handle our social media. We've seen a 30% increase in engagement in just two months. Incredible!",
+  "testimonial1_name": "Ana G.",
+  "testimonial1_position": "Online Boutique Owner",
+  "testimonial1_company": "Moda Elegante S.A.",
+  
+  "testimonial2_text": "Thanks to BoostellAI's sales funnels, our conversions have skyrocketed. The investment paid for itself in the first week.",
+  "testimonial2_name": "Carlos M.",
+  "testimonial2_position": "Technology Startup Manager",
+  "testimonial2_company": "Tech Solutions Ltda.",
+  
+  "testimonial3_text": "BoostellAI's campaign personalization is exceptional. Our customers feel truly connected to our brand.",
+  "testimonial3_name": "Laura P.",
+  "testimonial3_position": "Marketing Director",
+  "testimonial3_company": "Innovación Digital S.L.",
+  
+  "testimonial4_text": "We have achieved amazing operational efficiency. BoostellAI has allowed us to focus on strategic growth.",
+  "testimonial4_name": "Javier R.",
+  "testimonial4_position": "CEO of a Service Company",
+  "testimonial4_company": "Servicios Pro S.A.S.",
 
   "cta_heading": "Ready to Transform Your Business?",
   "cta_description": "Don't let your competition get ahead. It's time to implement cutting-edge strategies.",
@@ -57,5 +80,15 @@
   "contact_social": "Follow us on social media for more tips.",
 
   "footer_copyright": "2025 BoostellAI. All rights reserved.",
-  "footer_tagline": "Powering SMEs with Artificial Intelligence."
+  "footer_tagline": "Powering SMEs with Artificial Intelligence.",
+  "services_heading": "How we help your business",
+
+  "feature1_title": "Professional Landing Page",
+  "feature1_desc": "Optimized with an attractive and persuasive design to capture high-quality leads or sell directly.",
+  "feature2_title": "Simple Sales Funnel",
+  "feature2_desc": "A clear structure: main page, thank you page, and a basic email sequence to nurture your prospects.",
+  "feature3_title": "AI-Powered Copywriting",
+  "feature3_desc": "Texts designed by artificial intelligence to persuade, connect emotionally, and guide the user to action.",
+  "feature4_title": "Quick Integration",
+  "feature4_desc": "We seamlessly connect your new funnel with your existing tools like WhatsApp, email, or your CRM."
 }
