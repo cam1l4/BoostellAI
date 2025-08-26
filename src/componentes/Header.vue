@@ -7,8 +7,14 @@
       </span>
     </a>
     <nav>
-      <div class="dropdown" @mouseenter="toggleDropdown = true" @mouseleave="toggleDropdown = false">
-        <a href="#servicios-overview">{{ translations.nav_services }}</a>
+      <div 
+        class="dropdown" 
+        @mouseenter="toggleDropdown = true" 
+        @mouseleave="toggleDropdown = false"
+      >
+        <!-- Correcto: Es un <span>, no hace scroll -->
+        <span class="px-4 py-2 cursor-pointer">{{ translations.nav_services }}</span>
+        
         <transition
           enter-active-class="transition ease-out duration-200"
           enter-from-class="transform opacity-0 scale-95"
@@ -18,6 +24,7 @@
           leave-to-class="transform opacity-0 scale-95"
         >
           <div v-if="toggleDropdown" class="dropdown-content">
+            <!-- Correcto: Es un <a> que apunta al ID correcto -->
             <a href="#gestion-redes">{{ translations.service1_title_short }}</a>
           </div>
         </transition>
@@ -26,7 +33,10 @@
       <a href="#testimonios">{{ translations.nav_testimonials }}</a>
       <a href="#nosotros">{{ translations.nav_about_us }}</a>
       <a href="#contacto">{{ translations.nav_contact }}</a>
+<<<<<<< HEAD
 
+=======
+>>>>>>> dev
     </nav>
     <div class="language-switcher">
       <select v-model="currentLanguage">
@@ -50,8 +60,6 @@ export default defineComponent({
   },
 });
 </script>
-
-
 
 
 

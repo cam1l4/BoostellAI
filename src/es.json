@@ -6,10 +6,13 @@
   "nav_contact": "Contacto",
   "service1_title_short": "Landing & Embudo",
 
-  "hero_headline_part1": "Impulsa tu negocio con",
+  "hero_headline_part1": "Impulsa tu marca con BoostellAI y el poder de la",
   "hero_headline_part2": "Inteligencia Artificial",
-  "hero_description": "Automatiza tu contenido y haz crecer tu marca en redes sociales con nuestras soluciones innovadoras.",
-  "hero_cta": "Empezar ahora",
+  "hero_description": "Automatiza tu contenido, conecta con tu audiencia y multiplica tus resultados en redes sociales gracias a nuestras soluciones de IA diseñadas para tu negocio.",
+  "hero_cta": "Empieza a impulsar tu negocio ahora",
+
+  "service1_title": "Convierta a los visitantes en clientes con un embudo digital inteligente",
+  "service1_description": "Diseñamos páginas de destino optimizadas con IA y embudos simples que guían a sus clientes desde el primer clic hasta la compra.",
 
   "problem_solution_heading": "El Problema y Nuestra Solución",
   "problem_title": "El Problema: Marketing Tradicional Ineficiente",
@@ -45,9 +48,20 @@
   "benefit6_description": "Construye una base sólida para el crecimiento a largo plazo.",
 
   "testimonials_title": "Lo que dicen nuestros clientes",
-  "testimonial_1": "Gracias a esta herramienta, ahora publicamos contenido de calidad todos los días sin esfuerzo.",
-  "testimonial_2": "La automatización de redes sociales nos permitió enfocarnos en hacer crecer el negocio.",
-  "testimonial_3": "El alcance y la interacción con nuestros clientes aumentó en pocas semanas.",
+  "testimonial1_text": "BoostellAI ha revolucionado la forma en que manejamos nuestras redes sociales. Hemos visto un aumento del 30% en el engagement en solo dos meses. ¡Increíble!",
+  "testimonial1_name": "Ana G.",
+  "testimonial1_position": "Dueña de Boutique Online",
+  "testimonial1_company": "Moda Elegante S.A.",
+  
+  "testimonial2_text": "La automatización de redes sociales nos permitió enfocarnos en hacer crecer el negocio.",
+  "testimonial2_name": "Carlos M.",
+  "testimonial2_position": "Gerente de Startup",
+  "testimonial2_company": "Tech Solutions",
+  
+  "testimonial3_text": "El alcance y la interacción con nuestros clientes aumentó en pocas semanas.",
+  "testimonial3_name": "Laura P.",
+  "testimonial3_position": "Directora de Marketing",
+  "testimonial3_company": "Innovación Digital",
 
   "cta_heading": "¿Listo para Transformar tu Negocio?",
   "cta_description": "No dejes que tu competencia te supere. Es hora de implementar estrategias de vanguardia.",
@@ -58,8 +72,15 @@
 
   "footer_copyright": "2025 BoostellAI. Todos los derechos reservados.",
   "footer_tagline": "Impulsando PyMEs con Inteligencia Artificial.",
-  "services_heading": "Como ayudamos a tu negocio"
+  "services_heading": "Como ayudamos a tu negocio",
 
-
+  "feature1_title": "Landing Page Profesional",
+  "feature1_desc": "Optimizada con un diseño atractivo y persuasivo para captar leads de alta calidad o vender directamente.",
+  "feature2_title": "Embudo de Venta Sencillo",
+  "feature2_desc": "Una estructura clara: página principal, página de gracias y una secuencia de emails básicos para nutrir a tus prospectos.",
+  "feature3_title": "Copywriting con IA",
+  "feature3_desc": "Textos diseñados por inteligencia artificial para persuadir, conectar emocionalmente y guiar al usuario a la acción.",
+  "feature4_title": "Integración Rápida",
+  "feature4_desc": "Conectamos tu nuevo embudo sin problemas con tus herramientas existentes como WhatsApp, email o tu CRM."
 }
 

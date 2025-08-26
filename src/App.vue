@@ -4,6 +4,7 @@
     <main>
       <Hero />
       <Nosotros />
+      <ServiciosOverview />
       <Transformacion />
       <Testimonios />
       <Contacto />
@@ -17,6 +18,7 @@ import { defineComponent, ref, computed, provide } from 'vue';
 import Header from './componentes/Header.vue';
 import Hero from './componentes/Hero.vue';
 import Nosotros from './componentes/Nosotros.vue';
+import ServiciosOverview from './componentes/ServiciosOverview.vue';
 import Transformacion from './componentes/Transformacion.vue';
 import Testimonios from './componentes/Testimonios.vue';
 import Contacto from './componentes/Contacto.vue';
@@ -27,7 +29,16 @@ import huTranslations from './hu.json';
 
 export default defineComponent({
   name: 'App',
-  components: { Header, Hero, Nosotros, Transformacion, Testimonios, Contacto, Footer },
+  components: {
+    Header,
+    Hero,
+    Nosotros,
+    ServiciosOverview,
+    Transformacion,
+    Testimonios,
+    Contacto,
+    Footer,
+  },
   setup() {
     const allTranslations = ref({
       es: esTranslations,

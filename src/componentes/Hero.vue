@@ -1,17 +1,31 @@
+<!-- src/componentes/Hero.vue -->
 <template>
-  <section id="top" class="hero-section relative flex flex-col justify-center items-center text-center text-white">
-    <video autoplay muted loop playsinline class="hero-video">
+  <section id="top" class="hero-section relative flex flex-col justify-center items-center text-center text-white min-h-screen overflow-hidden"
+  >
+    <!-- Video de fondo con overlay -->
+    <video autoplay muted loop playsinline class="hero-video absolute inset-0 w-full h-full object-cover">
       <source src="/Principal.mp4" type="video/mp4" />
     </video>
-    <div class="relative z-10 max-w-3xl px-4">
-      <h1 class="text-4xl md:text-6xl font-extrabold leading-tight mb-6">
+    <div class="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/80"></div>
+
+    <!-- Contenido -->
+    <div class="relative z-10 max-w-4xl px-6">
+      <h1 class="text-4xl md:text-6xl font-extrabold leading-tight mb-6 drop-shadow-lg">
         {{ translations.hero_headline_part1 }}
-        <span class="text-gradient"> {{ translations.hero_headline_part2 }}</span>
+        <span class="bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent">
+          {{ translations.hero_headline_part2 }}
+        </span>
       </h1>
-      <p class="text-lg md:text-xl mb-8">
+      
+      <p class="text-lg md:text-xl mb-10 text-gray-200 drop-shadow-md">
         {{ translations.hero_description }}
       </p>
-      <a href="#contacto" class="btn-primary">
+
+      <a 
+      href="https://wa.me/+36305936472?text=Hola%2C%20estoy%20interesado%20en%20sus%20servicios%20de%20IA."
+      target="_blank" 
+      class="btn-primary"
+    >
         {{ translations.hero_cta }}
       </a>
     </div>
