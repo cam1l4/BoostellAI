@@ -22,7 +22,7 @@
       </p>
 
       <a 
-      href="https://wa.me/+36305936472?text=Hola%2C%20estoy%20interesado%20en%20sus%20servicios%20de%20IA."
+      href="https://wa.me/+36305936472?text=Hi%2C%20I%20am%20interested%20in%20your%20AI%20services."
       target="_blank" 
       class="btn-primary"
     >
