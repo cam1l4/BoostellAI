@@ -8,29 +8,26 @@
 
   "hero_headline_part1": "Turbózd fel márkádat a BoostellAI erejével és",
   "hero_headline_part2": "Mesterséges Intelligenciával",
-  "hero_description": "Automatizáld tartalmaidat, lépj kapcsolatba közönségeddel és növeld közösségi média eredményeidet vállalkozásodra tervezett mesterséges intelligencia megoldásainkkal.",
+  "hero_description": "Automatizáld a tartalmaidat, és lépj kapcsolatba a közönségeddel olyan mesterségesintelligencia-megoldásokkal, amelyek a kisvállalkozások és a nagy márkák számára egyaránt elérhetők.",
   "hero_cta": "Kezdje el vállalkozása fellendítését most",
 
   "service1_title": "Alakítsa át a látogatókat ügyfelekké egy intelligens digitális tölcsérrel",
   "service1_description": "MI-vel optimalizált landing oldalakat és egyszerű tölcséreket tervezünk, amelyek az első kattintástól a vásárlásig vezetik az ügyfeleit.",
   
-  "problem_solution_heading": "A probléma és a megoldásunk",
-  "problem_title": "A probléma: Nem hatékony hagyományos marketing",
+  "problem_solution_heading": "Online erőfeszítéseid nem hoznak ügyfeleket?",
+  "problem_title": "A nehéz út (stratégia nélkül)",
   "problem_list": [
-    "Időhiány a közösségi média és a kampányok kezelésére",
-    "Nehézségek a potenciális ügyfelek vásárlókká konvertálásában",
-    "Magas költségek és alacsony megtérülés a hirdetésekben",
-    "Általános stratégiák, amelyek nem rezonálnak a közönséggel",
-    "A digitális marketing legújabb trendjeinek ismerete hiánya"
+    "Weboldalak, amelyek nem konvertálják a látogatókat",
+    "Drága hirdetések, amelyek nem vezetnek eladásokhoz",
+    "Leadek, akik elvesznek a folyamat során",
+    "Bonyolult és kézi értékesítési folyamat"
   ],
-  "solution_title": "A megoldás: BoostellAI és MI",
-  "solution_description": "A BoostellAI-nál megértjük az Ön kihívásait. Ezért fejlesztettünk ki digitális marketing megoldásokat, amelyek lehetővé teszik a következőket:",
+  "solution_title": "Az intelligens út (a BoostellAI-val)",
   "solution_list": [
-    "A BoostellAI-nál megértjük az Ön kihívásait. Ezért fejlesztettünk ki digitális marketing megoldásokat, amelyek lehetővé teszik a következőket:",
-    "Automatizálja a közösségi média és a kampánykezelést fejlett eszközökkel.",
-    "Optimalizálja az értékesítési csatornákat a konverziók maximalizálása érdekében.",
-    "Maradjon lépéselőnyben innovatív stratégiákkal.",
-    "MI-alapú szolgáltatásaink"
+    "Cselekvésre tervezett landing oldalak",
+    "Tölcsérek, amelyek a vásárláshoz vezetik az ügyfeleket",
+    "Maximalizáld a hirdetési megtérülésed",
+    "Automatizált rendszer, amely 24/7 értékesít helyetted"
   ],
 
   "transformation_heading": "Az átalakulás, amit elvárhat",
@@ -84,6 +81,7 @@
   "feature3_title": "MI-alapú Szövegírás",
   "feature3_desc": "Mesterséges intelligencia által tervezett szövegek, amelyek meggyőznek, érzelmileg kapcsolódnak és cselekvésre ösztönzik a felhasználót.",
   "feature4_title": "Gyors Integráció",
-  "feature4_desc": "Zökkenőmentesen összekötjük új tölcsérét meglévő eszközeivel, mint a WhatsApp, e-mail vagy a CRM rendszere."
+  "feature4_desc": "Zökkenőmentesen összekötjük új tölcsérét meglévő eszközeivel, mint a WhatsApp, e-mail vagy a CRM rendszere.",
+  "whatsapp_message": "Szia, érdekelnek az Önök mesterséges intelligencia szolgáltatásai."
 }
 

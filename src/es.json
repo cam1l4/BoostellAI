@@ -8,28 +8,26 @@
 
   "hero_headline_part1": "Impulsa tu marca con BoostellAI y el poder de la",
   "hero_headline_part2": "Inteligencia Artificial",
-  "hero_description": "Automatiza tu contenido, conecta con tu audiencia y multiplica tus resultados en redes sociales gracias a nuestras soluciones de IA diseñadas para tu negocio.",
+  "hero_description": "Automatiza tu contenido y conecta con tu audiencia con soluciones de IA accesibles para pymes y grandes marcas.",
   "hero_cta": "Empieza a impulsar tu negocio ahora",
 
   "service1_title": "Convierta a los visitantes en clientes con un embudo digital inteligente",
   "service1_description": "Diseñamos páginas de destino optimizadas con IA y embudos simples que guían a sus clientes desde el primer clic hasta la compra.",
 
-  "problem_solution_heading": "El Problema y Nuestra Solución",
-  "problem_title": "El Problema: Marketing Tradicional Ineficiente",
+  "problem_solution_heading": "¿Tus esfuerzos online no generan clientes?",
+  "problem_title": "El Camino Difícil (Sin Estrategia)",
   "problem_list": [
-    "Falta de tiempo para gestionar redes sociales y campañas.",
-    "Dificultad para convertir leads en clientes.",
-    "Altos costos y bajo retorno de inversión en publicidad.",
-    "Estrategias genéricas que no resuenan con tu audiencia.",
-    "Desconocimiento de las últimas tendencias en marketing digital."
+    "Páginas web que no convierten visitantes",
+    "Anuncios caros que no llevan a ventas",
+    "Leads que se pierden en el camino",
+    "Proceso de venta complicado y manual"
   ],
-  "solution_title": "La Solución: BoostellAI y la IA",
-  "solution_description": "En BoostellAI, entendemos tus desafíos. Por eso, hemos desarrollado soluciones de marketing digital que te permiten:",
+  "solution_title": "El Camino Inteligente (Con BoostellAI)",
   "solution_list": [
-    "Automatizar la gestión de redes sociales y campañas con herramientas avanzadas.",
-    "Optimizar embudos de venta para maximizar conversiones.",
-    "Mantenerte a la vanguardia con estrategias innovadoras.",
-    "Nuestros Servicios Impulsados por IA"
+    "Landing pages diseñadas para la acción",
+    "Embudos que guían al cliente a la compra",
+    "Maximiza el retorno de tu publicidad",
+    "Sistema automático que vende por ti 24/7"
   ],
   
   "transformation_heading": "La Transformación que Esperas",
@@ -81,6 +79,7 @@
   "feature3_title": "Copywriting con IA",
   "feature3_desc": "Textos diseñados por inteligencia artificial para persuadir, conectar emocionalmente y guiar al usuario a la acción.",
   "feature4_title": "Integración Rápida",
-  "feature4_desc": "Conectamos tu nuevo embudo sin problemas con tus herramientas existentes como WhatsApp, email o tu CRM."
+  "feature4_desc": "Conectamos tu nuevo embudo sin problemas con tus herramientas existentes como WhatsApp, email o tu CRM.",
+  "whatsapp_message": "Hola, estoy interesado en sus servicios de IA."
 }
 

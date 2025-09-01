@@ -16,6 +16,9 @@
     "vue": "^3.3.4"
   },
   "dependencies": {
-    "vue-i18n": "^11.1.11"
+    "@vueuse/motion": "^3.0.3",
+    "motion": "^12.23.12",
+    "vue-i18n": "^11.1.11",
+    "vue-observe-visibility": "^1.0.0"
   }
 }
