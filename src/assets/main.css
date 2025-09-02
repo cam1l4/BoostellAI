@@ -312,9 +312,13 @@
   }
 }
 
-@keyframes scrollTestimonials {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
 }
 /* --- ANCHO PARA ESCRITORIOS --- */
 /* En pantallas grandes (1024px+), se muestran 3 tarjetas más angostas */
